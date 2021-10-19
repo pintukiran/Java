@@ -4,7 +4,7 @@ class A{
         ArrayList al = new ArrayList();
             al.add("one");
             al.add("two");
-            al.add("three");
+            al.add("th");
             al.add("four");
             al.add("five");
             al.add("six");
